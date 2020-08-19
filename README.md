@@ -3,6 +3,7 @@
 This is the development guide for the Addison County Community Table, an online ordering platform that supports local businesses in Addison County, Vermont. This README file contains the most up-to-date guidance on the current status of the project and how you can contribute to its development.
 
 **Current state: ALPHA TESTING**
+
 _Last updated: August 19, 2020_
 
 ## Contributing
